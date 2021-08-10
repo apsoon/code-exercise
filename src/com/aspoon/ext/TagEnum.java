@@ -44,6 +44,10 @@ public enum TagEnum {
      */
     BFS,
     /**
+     * 深度优先算法
+     */
+    DFS,
+    /**
      * 字符串
      */
     STRING,
@@ -63,6 +67,10 @@ public enum TagEnum {
      * 链表
      */
     LINKED_LIST,
+    /**
+     * 栈
+     */
+    STACK,
     ;
 
 }

@@ -1,6 +1,6 @@
-package com.aspoon.leetcode;
+package com.aspoon.exercise.code.leetcode;
 
-import com.aspoon.ext.*;
+import com.aspoon.exercise.code.ext.*;
 
 import java.util.HashMap;
 import java.util.Map;

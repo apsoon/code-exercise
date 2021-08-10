@@ -1,4 +1,4 @@
-package com.aspoon.leetcode;
+package com.aspoon.exercise.code.leetcode;
 
 /*
 9. 回文数
@@ -34,7 +34,7 @@ package com.aspoon.leetcode;
 进阶：你能不将整数转为字符串来解决这个问题吗？
  */
 
-import com.aspoon.ext.*;
+import com.aspoon.exercise.code.ext.*;
 
 /**
  * @author aspoon

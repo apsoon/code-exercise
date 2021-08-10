@@ -1,4 +1,4 @@
-package com.aspoon.leetcode;
+package com.aspoon.exercise.code.leetcode;
 
 /*
 114. 二叉树展开为链表
@@ -31,7 +31,7 @@ package com.aspoon.leetcode;
  */
 
 
-import com.aspoon.ext.*;
+import com.aspoon.exercise.code.ext.*;
 
 import java.util.Stack;
 

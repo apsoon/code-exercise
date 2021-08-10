@@ -1,4 +1,4 @@
-package com.aspoon.leetcode;
+package com.aspoon.exercise.code.leetcode;
 
 /*
 92. 反转链表 II
@@ -31,7 +31,7 @@ package com.aspoon.leetcode;
 进阶： 你可以使用一趟扫描完成反转吗？
  */
 
-import com.aspoon.ext.*;
+import com.aspoon.exercise.code.ext.*;
 
 /**
  * @author aspoon

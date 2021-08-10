@@ -1,21 +1,21 @@
-package com.aspoon.ext;
+package com.aspoon.exercise.code.ext;
 
 import java.lang.annotation.*;
 
 /**
- * 解法标签
+ * 题目标签
  *
  * @author aspoon
  */
 @Retention(value = RetentionPolicy.SOURCE)
 @Documented
-@Target(ElementType.METHOD)
-public @interface SolutionTag {
+@Target(ElementType.TYPE)
+public @interface ProblemTag {
 
     /**
      * 标签类型列表
      *
-     * @return TagEnum
+     * @return TagEnum[]
      */
-    TagEnum tag();
+    TagEnum[] tags();
 }

@@ -1,4 +1,4 @@
-package com.aspoon.ext;
+package com.aspoon.exercise.code.ext;
 
 import java.lang.annotation.*;
 

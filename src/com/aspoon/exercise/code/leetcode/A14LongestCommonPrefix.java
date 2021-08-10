@@ -1,4 +1,4 @@
-package com.aspoon.leetcode;
+package com.aspoon.exercise.code.leetcode;
 
 /*
 14. 最长公共前缀
@@ -29,7 +29,7 @@ strs[i] 仅由小写英文字母组成
 通过次数582,565提交次数1,438,905
  */
 
-import com.aspoon.ext.*;
+import com.aspoon.exercise.code.ext.*;
 
 /**
  * @author aspoon

@@ -55,6 +55,10 @@ public enum TagEnum {
      * 暴力破解
      */
     BRUTE_FORCE,
+    /**
+     * 双指针
+     */
+    TWO_POINTERS,
     ;
 
 }

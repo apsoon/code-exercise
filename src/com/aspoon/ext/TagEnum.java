@@ -59,6 +59,10 @@ public enum TagEnum {
      * 双指针
      */
     TWO_POINTERS,
+    /**
+     * 链表
+     */
+    LINKED_LIST,
     ;
 
 }

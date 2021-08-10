@@ -51,6 +51,10 @@ public enum TagEnum {
      * 哈希表
      */
     HASH,
+    /**
+     * 暴力破解
+     */
+    BRUTE_FORCE,
     ;
 
 }
